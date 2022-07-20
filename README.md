@@ -1,2 +1,2 @@
-# bloodbankmgmt
-Blood Bank Management system using Java
+
+This is a BloodBank Management System Project where user can register as an admin, blood donor or blood receiver. Once the registration is completed user can login. User can also reset the password in case they forget it. The admin is responsible for checking and maintaining the blood stock and can search for blood units of a particular blood type in a particular city. The receiver and donor can update or change their personal details any time they wish to. They can make a request to donate blood or to receive blood units. 
